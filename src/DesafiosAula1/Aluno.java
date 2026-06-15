@@ -1,6 +1,6 @@
 package DesafiosAula1;
 
-//Classe Aluno
+//
 public class Aluno {
     String nome;
     int idade;
