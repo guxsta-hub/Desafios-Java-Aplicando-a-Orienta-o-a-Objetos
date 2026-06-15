@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a84bb21-4a50-4151-9b15-d2b45ce756d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios-aula2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafiosAula1/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafiosAula1/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafiosAula1/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafiosAula1/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafiosAula1/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafiosAula1/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafiosAula1/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafiosAula1/Principal4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafiosAula1/Principal5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principal3.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a84bb21-4a50-4151-9b15-d2b45ce756d3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
