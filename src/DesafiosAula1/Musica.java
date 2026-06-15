@@ -1,6 +1,5 @@
 package DesafiosAula1;
-
-//Classe Musica
+//
 public class Musica {
     public String titulo;
     public String artista;
